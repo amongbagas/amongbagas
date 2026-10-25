@@ -44,7 +44,7 @@ I am a **Results-Driven Developer** who bridges the gap between **Complex Backen
 
 ### 🏆 Featured Projects Strategy
 
-#### 1. [Texere Studio](https://texere.studio) (Business Portfolio)
+#### 1. [Texere Studio](https://texere.id) (Business Portfolio)
 > *SaaS Platform for Indonesian MSMEs (UMKM)*
 >
 > **Role:** Founder & Lead Developer
