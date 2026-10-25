@@ -5,7 +5,7 @@
 I am a **Results-Driven Developer** who bridges the gap between **Complex Backend Architecture** and **Premium User Experience**. Currently focusing on building scalable web applications using the **Laravel Ecosystem**.
 
 - 🌱 I’m currently focused on **High-Performance Laravel Architecture, Vue.js Reactivity, and System Optimization.**
-- 💼 Founder & Lead Developer at [**Texere Studio**](https://texere.studio) (SaaS Solutions for MSMEs).
+- 💼 Founder & Lead Developer at [**Texere Studio**](https://texere.id) (SaaS Solutions for MSMEs).
 - 🐧 Linux Enthusiast & Generalist (IoT, DevOps, Hardware Tinkering).
 - 💬 Ask me about **Monolithic vs Microservices, Database Indexing, or Building MVP in record time.**
 - 📫 Reach me at **amongbagas.pp@gmail.com**
