@@ -1,6 +1,6 @@
 # Hi 👋, I'm Among Bagas Punarbawa Purnama
 
-### 🚀 Fullstack Developer (Laravel & Vue) | Builder & Problem Solver
+### 🚀 Fullstack Developer | Builder & Problem Solver
 
 I am a **Results-Driven Developer** who bridges the gap between **Complex Backend Architecture** and **Premium User Experience**. Currently focusing on building scalable web applications using the **Laravel Ecosystem**.
 
@@ -17,10 +17,10 @@ I am a **Results-Driven Developer** who bridges the gap between **Complex Backen
 **Primary Tech Stack (Professional Work):**
 <p align="left">
   <a href="https://laravel.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a>
+  <a href="https://nextjs.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=vue" alt="vue" width="40" height="40"/> </a>
-  <a href="https://www.php.net/" target="_blank"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="40" height="40"/> </a>
 </p>
 
 **Infrastructure & DevOps:**
@@ -36,6 +36,7 @@ I am a **Results-Driven Developer** who bridges the gap between **Complex Backen
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://www.php.net/" target="_blank"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://skillicons.dev/icons?i=ps" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://www.blender.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a>
 </p>
